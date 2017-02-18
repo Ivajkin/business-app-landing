@@ -1,12 +1,12 @@
-## Welcome to GitHub Pages
+## Развивай свой бизнес
 
-You can use the [editor on GitHub](https://github.com/Ivajkin/business-app-landing/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Скачайте [Мобильный Бизнес Помощник](https://play.google.com/store/apps) для того, чтобы развивать свой бизнес.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+На каком этапе в развитии вы бы не находились, Бизнес Помощник поможет вам.
 
-### Markdown
+### Меры поддержки
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Мобильный Бизнес Помощник](https://play.google.com/store/apps) помогает находить возможности для развития вашего бизнеса
 
 ```markdown
 Syntax highlighted code block
